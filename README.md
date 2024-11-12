@@ -125,4 +125,4 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.
 
 - API Gutendex por proporcionar acceso a su biblioteca digital
 - Comunidad de Spring Boot por la documentación y recursos
-- [Nombre del curso o institución] por la inspiración y guía
+- AluraLATAM por la inspiración y guía
