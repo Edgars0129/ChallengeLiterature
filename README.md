@@ -17,7 +17,7 @@ Este proyecto es una aplicación Java/Spring Boot que integra con la API de Gute
 - Java 17
 - Spring Boot
 - Spring Data JPA
-- Base de datos H2/MySQL
+- Base de datos PostgreSQL
 - Maven
 - Jackson (para manejo de JSON)
 
